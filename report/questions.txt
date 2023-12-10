@@ -1,0 +1,13 @@
+1. Customer Demographics and Purchasing Patterns: How do gender and location correlate with specific purchasing patterns, such as purchase amounts and preferred categories?
+
+2. Age Trends and Product Preferences: How do factors like the color, size of purchased items, and age vary with customer demographics?
+
+3. Impact of Discounts and Promotions on Sales: How influential do discounts and promotional codes influence customer purchasing decisions? Do specific demographics or customer segments respond more to these promotions?
+
+4. Relationship between category and type of shipping: How do categories relate to shipping types and purchases? Is there a connection between choosing a specific category and a particular type of delivery?
+
+5. Influence of Shipping Type and Payment Method on Customer Choice: How do the shipping type and payment method preferences vary among customer segments? Does the choice of shipping type affect the review ratings or repeat purchase behavior?
+
+6. Customer Feedback and Business Strategy: How do review ratings correlate with repeat purchases, subscription status, and demographic factors? Can customer feedback be used to predict future purchasing behavior or preferences?
+
+7. Analysis of Purchase Amounts and Customer Value: What are the patterns in purchase amounts across different customer segments, product categories, and locations? How do these patterns relate to the frequency of purchases and customer lifetime value? 
