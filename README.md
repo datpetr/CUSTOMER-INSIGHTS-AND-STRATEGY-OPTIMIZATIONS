@@ -4,7 +4,8 @@
 Datsenko Petr
 
 ### **Abstract**
-![image](https://github.com/user-attachments/assets/3f5529ba-ba0b-45c6-889f-fd4e65088300)
+
+![image](https://github.com/user-attachments/assets/658213cd-c9d0-4a66-b670-837170ae70c0)
 
 - **Objective:** Analyze US consumer behavior through demographics and purchasing patterns.
 - **Visual Tools:**
